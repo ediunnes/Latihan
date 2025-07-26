@@ -55,8 +55,8 @@ html {
     color: black;
     text-decoration: none;
     font-size: 30px;
-    width: 200px;
-    height: 200px;
+    width: 50%;
+    height: 50%px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -76,12 +76,12 @@ html {
 }
 
 .container-footer {
-    height: 5vh;
+height: 5vh;
 background-color: crimson;
 display: flex;
 justify-content: center;
 align-items: center;
-font-size: 20px;
+font-size: 10px;
 color: white;
 
 }
